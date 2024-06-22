@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/subha-harini-56360222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Subha Harini" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/subhaharini07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="subhaharini07" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/subhasenvbrq/" target="blank"><img align="center" src="https://iconduck.com/icons/797/geeksforgeeks" alt="subhaharini07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subhaharini107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhaharini107" height="30" width="40" /></a>
 </p>
 
